@@ -76,4 +76,4 @@ const allLGAsinAState = nigerianStates.lga("Oyo")
 #### Warning:
 Please this package was put together by a human and is not void of error, Please reach out to me on [Twitter](https://twitter.com/csdimgba) if there is a need to. 
 
-## Enjoy, every byte!!
+## Enjoy every byte!!
