@@ -949,7 +949,7 @@ module.exports = {
             ]
         },
         {
-            "state": "FCT",
+            "state": "Federal Capital Territory",
             "lgas": [
                 "Abaji",
                 "Abuja Municipal Area Council",
