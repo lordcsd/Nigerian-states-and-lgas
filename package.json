@@ -1,10 +1,11 @@
 {
   "name": "nigerian-states-and-lgas",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A minimalist package that contains the full list of Nigerian States and respective local-governments",
   "main": "index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
@@ -21,5 +22,7 @@
     "url": "https://github.com/lordcsd/Nigerian-states-and-lgas/issues"
   },
   "homepage": "https://github.com/lordcsd/Nigerian-states-and-lgas#readme",
-  "dependencies": {}
+  "devDependencies": {
+    "typescript": "^4.9.4"
+  }
 }
