@@ -5,10 +5,10 @@ This is a minimalistic package that has a collection of all Nigerian states and 
 
 ```javascript
 //ES5
-const {nigerianStates} = require('nigerian-states-and-lgas');
+const nigerianStates = require('nigerian-states-and-lgas');
 
 //ES6
-import {nigerianStates} from 'nigerian-states-and-lgas';
+import * as nigerianStates from 'nigerian-states-and-lgas';
 
 const allStatesAndLGAs = nigerianStates.all()
 /*
